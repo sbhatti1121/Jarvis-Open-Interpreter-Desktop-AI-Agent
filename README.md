@@ -10,7 +10,7 @@ A PySide6 desktop UI that listens for **“Hey Jarvis”**, transcribes commands
 - Working microphone and speakers
 - Internet access for online speech recognition and TTS
 
-## Run Coomands
+## Run Commands
 
 1. irm https://www.openinterpreter.com/install.ps1 | iex
 2. pip install -r requirements.txt
