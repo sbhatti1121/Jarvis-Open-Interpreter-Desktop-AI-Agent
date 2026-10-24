@@ -1,0 +1,10 @@
+PySide6>=6.7
+numpy>=1.26
+sounddevice>=0.4.6
+SpeechRecognition>=3.10
+PyAudio>=0.2.14
+openwakeword>=0.6.0
+onnxruntime>=1.17
+edge-tts>=6.1
+pyinstaller>=6.8
+pygame>=2.5
